@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "Pdeadlockprevention.C": "cpp",
+        "FCFS.C": "cpp"
+    }
+}
